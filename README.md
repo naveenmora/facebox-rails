@@ -1,8 +1,6 @@
-# facebox-rails
-
 A gemified Facebox for Rails.
 
-# Rails 3.1
+# Rails 5.0.0.1
 
 Add it to your Gemfile:
 
